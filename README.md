@@ -1,6 +1,8 @@
 <h1 align="center">Hey,Myself FARZAN R S</h1>
 <h3 align="center">An undergraduate in electrical engineering with a passion for coding and a keen interest in astronomy and physics.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=f7z7&label=Profile%20views&color=0e75b6&style=flat" alt="f7z7" /> </p>
+
 - 🌱 I’m currently learning **HTML,CSS,JS,MATLAB**
 
 - 💬 Ask me about **MATLAB,HTML,PYTHON**
@@ -10,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/farzan7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farzan7" height="30" width="40" /></a>
+<a href="https://fb.com/farzan richu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="farzan richu" height="30" width="40" /></a>
 <a href="https://instagram.com/fr_zan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fr_zan_" height="30" width="40" /></a>
 </p>
 
