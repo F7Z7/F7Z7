@@ -1,9 +1,8 @@
 <h1 align="center">Hey,Myself FARZAN R S</h1>
 <h3 align="center">An undergraduate in electrical engineering with a passion for coding and a keen interest in astronomy and physics.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=f7z7&label=Profile%20views&color=0e75b6&style=flat" alt="f7z7" /> </p>
 
-- 🌱 I’m currently learning **HTML,CSS,JS,MATLAB**
+- 🌱 I’m currently learning **HTML,CSS,JS,MATLAB,ML**
 
 - 💬 Ask me about **MATLAB,HTML,PYTHON**
 
