@@ -72,13 +72,7 @@
   <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="40" height="40"/>
   </a> &nbsp;
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="40" height="40"/>
-  </a> &nbsp;
-  <a href="https://www.electronjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=electron" alt="Electron" width="40" height="40"/>
-  </a> &nbsp;
-</p>
+
 
 <!-- Tools & Platforms -->
 <h1 align="left">🛠️ Tools & Platforms</h1>
