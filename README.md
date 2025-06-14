@@ -17,9 +17,7 @@
 </div>
 
 <!-- Visitor Badge -->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=f7z7.f7z7" alt="visitor badge" />
-</div>
+
 
 <!-- Greeting -->
 <h1 align="center">Yo!!! Guys 👋</h1>
